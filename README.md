@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasanHuseyinOzturk
-- 👀 I’m interested in Python, STM32, C++
+- 👀 I’m interested in Python, STM32, C++, 3d drawing and engineering
 - 🌱 I’m currently learning artificial intelligence, image processing and embedded software
 - 💞️ I'm looking to collaborate on software projects
 
